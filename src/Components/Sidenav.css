@@ -1,0 +1,166 @@
+.fixed_left{
+    position: fixed;
+    
+    
+}
+
+.libgcolor:hover{
+    background-color: #f3f0f0;
+    width:230px;
+    height:50px;
+    border-radius: 10px;
+    display:flex;
+    align-items: center;
+} 
+
+.searchbtn:focus{
+    border:none;
+}
+.searchoff{
+    position:absolute;
+    top: 90px;
+    left:27px;
+}
+.searchinput{
+    border-radius: 6px;
+    padding:8px;
+    padding-left: 35px;
+    border:none;
+    background-color: #edeaea;
+}
+.searchinput:focus{
+    outline:none;
+}
+
+
+.notify_friends{
+    display: flex;
+    margin-top: 12px;
+}
+.notify_image{
+    min-width: 48px;
+    min-height: 48px;
+    margin-left: 30px;
+}
+.notify_username{
+    margin-left: 15px;
+    display: flex;
+}
+
+.messagereq{
+    display:flex;
+    justify-content: space-between;
+}
+.message_friends{
+    display: flex;
+    margin-top: 18px;
+}
+.explorebtn:focus{
+    border:none;
+}
+/*.profilebtn:focus{
+    border:none;
+}
+.profilebtn:hover{
+    background-color: #f3f0f0;
+    width:230px;
+    height:50px;
+    border-radius: 10px;
+    display:flex;
+    align-items: center;
+}*/
+.homebtn:focus{
+   border:none;
+}
+.reelsbtn:focus{
+    border:none;
+}
+
+.profilebtn{
+    text-decoration: none;
+}
+
+.createbutton{
+    background-color: white;
+    color:black;
+    border:none;
+}
+.createbutton:hover{
+    background-color: #f3f0f0;
+}
+.libgcolor:hover .createbutton{
+    background-color: #f3f0f0;
+}
+.moreitem{
+    margin-top: 80px;
+}
+.notificationbtn{
+    border:none;
+    background-color: white;
+}
+.notificationbtn:hover{
+    background-color: #f3f0f0;
+}
+.libgcolor:hover .notificationbtn{
+    background-color: #f3f0f0;
+}
+.messagebtn{
+    border:none;
+    background-color: white;
+}
+.messagebtn:hover{
+    background-color: #f3f0f0;
+}
+.libgcolor:hover .messagebtn{
+    background-color: #f3f0f0;
+}
+.reelsbtn{
+    border:none;
+    background-color: white;
+}
+.reelsbtn:hover{
+    background-color: #f3f0f0;
+}
+.libgcolor:hover .reelsbtn{
+    background-color: #f3f0f0;
+}
+.explorebtn{
+    border:none;
+    background-color: white;
+}
+.explorebtn:hover{
+    background-color: #f3f0f0;
+}
+.libgcolor:hover .explorebtn{
+    background-color: #f3f0f0;
+}
+.searchbtn{
+    border:none;
+    background-color: white;
+}
+.searchbtn:hover{
+    background-color: #f3f0f0;
+}
+.libgcolor:hover .searchbtn{
+    background-color: #f3f0f0;
+}
+.homebtn{
+    border:none;
+    background-color: white;
+}
+.homebtn:hover{
+    background-color: #f3f0f0;
+}
+.libgcolor:hover .homebtn{
+    background-color: #f3f0f0;
+}
+.profilebtn{
+    border:none;
+    background-color: white;
+}
+.profilebtn:hover{
+    background-color: #f3f0f0;
+}
+.libgcolor:hover .profilebtn{
+    background-color: #f3f0f0;
+}

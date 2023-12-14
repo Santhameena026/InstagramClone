@@ -1,0 +1,16 @@
+.more_button{
+    border:none;
+    background-color: white;
+}
+.menu{
+    width:400px;
+}
+.logout{
+    border:none;
+    background-color: white;
+    
+}
+.logout:hover{
+    background-color: #f3f0f0;
+}
+

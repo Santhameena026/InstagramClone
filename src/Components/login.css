@@ -1,0 +1,40 @@
+.slider-area{
+    background-image: url(https://i.imgur.com/P3Vm1Kq.png);
+    background-repeat: no-repeat;
+    background-size: 410px;
+    height:600px;
+    width:410px;
+}
+.logo{
+    background-image: url(https://static.cdninstagram.com/rsrc.php/v3/yx/r/WtxJZZ3-9ZP.png);
+    background-repeat: no-repeat;
+    background-size: 180px;
+    height:58px;
+    width:200px;
+}
+.login-area{
+    width:380px;
+}
+#or{
+    font-size: 16px !important;
+    color:#766d6d;
+}
+#or::before {
+    content: '';
+    display: block;
+    height:2px;
+    width:110px;
+    background: #e6d9d9;
+    position: relative;
+    top:15px;
+}
+#or::after {
+    content: '';
+    display: block;
+    height:2px;
+    width:110px;
+    background: #e6d9d9;
+    position: relative;
+    left:170px;
+    bottom:12px;
+}
